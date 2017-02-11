@@ -1,0 +1,20 @@
+/*/////// MEDIA ////////*/
+
+img, video, audio, iframe, table, form {
+  width: 100%; /* IE */
+  max-width: 100%; /* FF, Safari, Chrome */
+}
+
+/*/////// Layout STYLES ////////*/
+.row {
+  margin-bottom: 20px;
+}
+/*/////// Carousel Styles ////////*/
+
+#carousel-example-generic .item img {
+  height: auto;
+
+}
+.carousel-caption p {
+  display: none;
+}
